@@ -7,4 +7,4 @@
 
   http://www.imparareaprogrammare.it
 */
-var cieca = 0;
+
